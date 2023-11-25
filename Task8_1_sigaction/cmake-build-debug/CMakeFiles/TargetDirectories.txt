@@ -1,0 +1,3 @@
+/home/lapochka/CLionProjects/Task8_1_sigaction/cmake-build-debug/CMakeFiles/Task8_1_sigaction.dir
+/home/lapochka/CLionProjects/Task8_1_sigaction/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lapochka/CLionProjects/Task8_1_sigaction/cmake-build-debug/CMakeFiles/rebuild_cache.dir
